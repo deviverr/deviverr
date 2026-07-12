@@ -1,1 +1,58 @@
+<svg width="520" height="160" viewBox="0 0 520 160" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <style>
+    .t { font-family: 'Courier New', monospace; }
+    .bar { transform-box: fill-box; transform-origin: bottom; animation: eq 0.9s ease-in-out infinite alternate; }
+    .b2 { animation-delay: 0.15s; } .b3 { animation-delay: 0.3s; } .b4 { animation-delay: 0.45s; }
+    .b5 { animation-delay: 0.2s; } .b6 { animation-delay: 0.55s; } .b7 { animation-delay: 0.1s; } .b8 { animation-delay: 0.4s; }
+    @keyframes eq { from { transform: scaleY(0.25); } to { transform: scaleY(1); } }
+    .prog { animation: fill 210s linear infinite; }
+    @keyframes fill { from { width: 90px; } to { width: 336px; } }
+    .blink { animation: blink 1s steps(2) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .scan { animation: scan 8s linear infinite; }
+    @keyframes scan { from { transform: translateY(-160px); } to { transform: translateY(160px); } }
+  </style>
 
+  <!-- chunky pixel frame -->
+  <rect x="0" y="0" width="520" height="160" fill="#FFB000"/>
+  <rect x="4" y="4" width="512" height="152" fill="#1E1611"/>
+  <rect x="8" y="8" width="504" height="144" fill="none" stroke="#3A2E24" stroke-width="2"/>
+
+  <!-- header -->
+  <rect x="8" y="8" width="504" height="26" fill="#3A2E24"/>
+  <text x="20" y="26" class="t" font-size="12" font-weight="bold" fill="#FFB000">&#9834; NOW PLAYING</text>
+  <rect x="470" y="15" width="10" height="10" fill="#FF3838" class="blink"/>
+  <text x="440" y="26" class="t" font-size="10" fill="#F0EEE6">ON</text>
+
+  <!-- track info : EDIT THESE TWO LINES -->
+  <text x="20" y="62" class="t" font-size="15" font-weight="bold" fill="#F0EEE6">twenty one pilots</text>
+  <text x="20" y="80" class="t" font-size="12" fill="#CC785C">the whole discography, honestly</text>
+
+  <!-- equalizer -->
+  <g>
+    <rect class="bar"    x="380" y="46" width="10" height="40" fill="#FFB000"/>
+    <rect class="bar b2" x="394" y="46" width="10" height="40" fill="#CC785C"/>
+    <rect class="bar b3" x="408" y="46" width="10" height="40" fill="#FFB000"/>
+    <rect class="bar b4" x="422" y="46" width="10" height="40" fill="#CC785C"/>
+    <rect class="bar b5" x="436" y="46" width="10" height="40" fill="#FFB000"/>
+    <rect class="bar b6" x="450" y="46" width="10" height="40" fill="#CC785C"/>
+    <rect class="bar b7" x="464" y="46" width="10" height="40" fill="#FFB000"/>
+    <rect class="bar b8" x="478" y="46" width="10" height="40" fill="#CC785C"/>
+  </g>
+
+  <!-- progress bar -->
+  <rect x="20" y="100" width="400" height="12" fill="#3A2E24"/>
+  <rect x="20" y="100" height="12" fill="#CC785C" class="prog" width="90"/>
+  <text x="432" y="111" class="t" font-size="11" fill="#F0EEE6">&#8734;:&#8734;</text>
+
+  <!-- controls -->
+  <text x="20"  y="140" class="t" font-size="16" font-weight="bold" fill="#FFB000">&#9198;</text>
+  <rect x="52" y="124" width="22" height="22" fill="#FFB000"/>
+  <text x="57" y="141" class="t" font-size="14" font-weight="bold" fill="#1E1611">&#9616;&#9616;</text>
+  <text x="86"  y="140" class="t" font-size="16" font-weight="bold" fill="#FFB000">&#9197;</text>
+  <text x="130" y="140" class="t" font-size="11" fill="#CC785C">vol: &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608; MAX</text>
+  <text x="330" y="140" class="t" font-size="11" fill="#F0EEE6">repeat: ON &#128257;  shuffle: never</text>
+
+  <!-- CRT scanline -->
+  <rect x="4" y="0" width="512" height="3" fill="#FFB000" opacity="0.12" class="scan"/>
+</svg>
