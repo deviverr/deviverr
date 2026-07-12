@@ -18,14 +18,13 @@
 ```typescript
 const dev = {
   name: "dev",
-  role: "developer of many hats 🎩",
-  code: ["TypeScript", "Python", "Go", "Dart", "C#"],
+  code: ["TypeScript", "Python", "Go", "Lua", "C#", "C++", "Rust", "Java", "JavaScript"],
   currently: {
     building: "everything at once (as one does)",
     learning: "whatever broke last night",
-    listening: "lo-fi beats to debug/cry to",
+    listening: "twenty one pilots",
   },
-  funFact: "my commits at 3am are 40% of my personality",
+  funFact: "moew mwew meow mew maow",
 };
 ```
 
