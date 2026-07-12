@@ -1,17 +1,22 @@
 <div align="center">
 
-<!-- ⚡ PIXEL TYPING INTRO — edit the "lines=" part to change the text -->
-<a href="https://github.com/deviverr">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=18&duration=4000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=60&lines=hey%2C+I'm+dev+%3E_;full-stack%2C+full-time+curious;coffee+%E2%86%92+code+%E2%86%92+bugs+%E2%86%92+coffee;web+%C2%B7+backend+%C2%B7+mobile+%C2%B7+games;it+works+on+my+machine!" alt="Typing intro" />
+<!-- 🚧 pixel caution banner 🚧 -->
+<a href="https://github.com/deviverr/deviverr">
+  <img src="./assets/construction.svg" alt="Caution: meow moew meow" />
 </a>
 
-<br/>
+<!-- ⚡ PIXEL TYPING INTRO — edit the "lines=" part to change the text -->
+<a href="https://github.com/deviverr">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=18&duration=4000&pause=800&color=FFB000&center=true&vCenter=true&width=700&height=60&lines=hey%2C+I'm+dev+%3E_;full-stack%2C+full-time+curious;coffee+%E2%86%92+code+%E2%86%92+bugs+%E2%86%92+coffee;web+%C2%B7+backend+%C2%B7+mobile+%C2%B7+games;it+works+on+my+machine!" alt="Typing intro" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=deviverr&style=for-the-badge&color=00FF41&label=VISITORS" alt="Profile views" />
+<a href="https://github.com/deviverr?tab=followers">
+  <img src="https://komarev.com/ghpvc/?username=deviverr&style=for-the-badge&color=CC785C&label=VISITOR+No." alt="Profile views" />
+</a>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 </div>
-
----
 
 ## 🧑‍💻 About me
 
@@ -33,16 +38,18 @@ const dev = {
 - 🐛 I don't always test my code, but when I do, I do it in production
 - 💬 Ask me about anything — worst case, we learn together
 
----
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
 ## 🎧 Now playing
 
 <div align="center">
 
-<!-- 🎵 MUSIC WIDGET — edit the "lines=" text below whenever you switch obsessions -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3500&pause=500&color=FF3864&center=true&vCenter=true&width=600&height=50&lines=%E2%99%AA+now+playing...;%E2%99%AA+twenty+one+pilots;%E2%99%AA+volume%3A+MAX;%E2%99%AA+repeat%3A+ON" alt="Now playing" />
+<!-- 🎵 THE PLAYER — edit assets/player.svg (two text lines near "EDIT THESE") to change the track -->
+<a href="https://music.youtube.com">
+  <img src="./assets/player.svg" alt="Pixel music player" width="520" />
+</a>
 
-<!-- 📼 ON ROTATION — your playlist table, edit rows freely -->
+<!-- 📼 ON ROTATION — move the ▶︎ waveform to whatever row is playing -->
 | 💿 | on rotation | status |
 |---|---|---|
 | 🔴 | twenty one pilots — everything | `▶︎ •၊၊||၊|။|||| ` |
@@ -51,7 +58,7 @@ const dev = {
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
 ## 🛠️ Arsenal
 
@@ -90,47 +97,53 @@ const dev = {
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
 ## 👾 Numbers that validate me
 
 <div align="center">
 
-<!-- PIXEL ART STATS CARD -->
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=deviverr&theme=journey&include_all_commits=true" alt="Pixel GitHub stats" width="600" />
+<!-- PIXEL ART STATS CARD (with CRT screen effect) -->
+<a href="https://github.com/deviverr">
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=deviverr&theme=summer&screen_effect=true&include_all_commits=true" alt="Pixel GitHub stats" width="600" />
+</a>
 
 <br/><br/>
 
-<!-- RETRO TERMINAL STREAK -->
-<img src="https://streak-stats.demolab.com?user=deviverr&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E&border=00FF41" alt="GitHub streak" />
+<!-- WARM GRUVBOX CARDS -->
+<a href="https://github.com/deviverr?tab=repositories">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deviverr&theme=gruvbox" alt="Repos per language" width="380" />
+</a>
+<a href="https://github.com/deviverr">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deviverr&theme=gruvbox&utcOffset=3" alt="Commit hours (3am gang)" width="380" />
+</a>
 
 <br/><br/>
 
-<!-- RETRO TERMINAL TOP LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deviverr&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00FF41&langs_count=8" alt="Top languages" />
-
-<br/><br/>
-
-<!-- RETRO TERMINAL ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deviverr&bg_color=0D1117&color=00FF41&line=00FF41&point=C9D1D9&title_color=00FF41&area=true&area_color=00FF41" alt="Contribution graph" />
+<!-- WARM ACTIVITY GRAPH -->
+<a href="https://github.com/deviverr">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deviverr&bg_color=1E1611&color=FFB000&line=CC785C&point=F0EEE6&title_color=FFB000&area=true&area_color=CC785C&hide_border=true" alt="Contribution graph" width="95%" />
+</a>
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
 ## 🐍 The snake that eats my sins (contributions)
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deviverr/deviverr/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deviverr/deviverr/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/deviverr/deviverr/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
-</picture>
+<a href="https://github.com/deviverr/deviverr/actions">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deviverr/deviverr/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deviverr/deviverr/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/deviverr/deviverr/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
+  </picture>
+</a>
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
 ## 🤝 Find me elsewhere
 
@@ -143,16 +156,27 @@ const dev = {
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
 <div align="center">
 
 ### 💭 Random dev wisdom
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix" alt="Dev quote" />
+<a href="https://github.com/deviverr">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev quote" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=5000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=%E2%98%85+GAME+OVER+%E2%98%85+insert+star+to+continue" alt="Game over" />
+<!-- pixel buttons -->
+<a href="https://github.com/deviverr/deviverr">
+  <img src="./assets/buttons.svg" alt="pixel buttons" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/deviverr/deviverr">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=5000&pause=1000&color=CC785C&center=true&vCenter=true&width=600&height=40&lines=%E2%98%85+GAME+OVER+%E2%98%85+insert+star+to+continue" alt="Game over" />
+</a>
 
 </div>
