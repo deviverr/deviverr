@@ -145,7 +145,7 @@ const dev = {
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
-## 🤝 Find me elsewhere
+## my socials
 
 <div align="center">
 
@@ -160,7 +160,7 @@ const dev = {
 
 <div align="center">
 
-### 💭 Random dev wisdom
+### mew mew mew
 
 <a href="https://github.com/deviverr">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev quote" />
@@ -176,7 +176,7 @@ const dev = {
 <br/><br/>
 
 <a href="https://github.com/deviverr/deviverr">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=5000&pause=1000&color=CC785C&center=true&vCenter=true&width=600&height=40&lines=%E2%98%85+GAME+OVER+%E2%98%85+insert+star+to+continue" alt="Game over" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=5000&pause=1000&color=CC785C&center=true&vCenter=true&width=600&height=40&lines=%E2%98%85+mEOW+Mrow+%E2%98%85+mew+meow+meow" alt="mEW Mew" />
 </a>
 
 </div>
