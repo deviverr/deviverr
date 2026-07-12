@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- ⚡ ANIMATED TYPING INTRO ⚡ -->
+<!-- ⚡ PIXEL TYPING INTRO — edit the "lines=" part to change the text -->
 <a href="https://github.com/deviverr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=hey%2C+I'm+dev+%F0%9F%91%8B;full-stack%2C+full-time+curious;I+turn+coffee+into+code+%E2%98%95%E2%86%92%F0%9F%92%BB;web+%C2%B7+backend+%C2%B7+mobile+%C2%B7+games;it+works+on+my+machine%2C+I+promise" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=18&duration=4000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=60&lines=hey%2C+I'm+dev+%3E_;full-stack%2C+full-time+curious;coffee+%E2%86%92+code+%E2%86%92+bugs+%E2%86%92+coffee;web+%C2%B7+backend+%C2%B7+mobile+%C2%B7+games;it+works+on+my+machine!" alt="Typing intro" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=deviverr&style=for-the-badge&color=blueviolet" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=deviverr&style=for-the-badge&color=00FF41&label=VISITORS" alt="Profile views" />
 
 </div>
 
@@ -35,6 +35,24 @@ const dev = {
 
 ---
 
+## 🎧 Now playing
+
+<div align="center">
+
+<!-- 🎵 MUSIC WIDGET — edit the "lines=" text below whenever you switch obsessions -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3500&pause=500&color=FF3864&center=true&vCenter=true&width=600&height=50&lines=%E2%99%AA+now+playing...;%E2%99%AA+twenty+one+pilots;%E2%99%AA+volume%3A+MAX;%E2%99%AA+repeat%3A+ON" alt="Now playing" />
+
+<!-- 📼 ON ROTATION — your playlist table, edit rows freely -->
+| 💿 | on rotation | status |
+|---|---|---|
+| 🔴 | twenty one pilots — everything | `▶︎ •၊၊||၊|။|||| ` |
+| ⚪ | lo-fi beats to debug/cry to | `paused` |
+| ⚪ | *(put your next obsession here)* | `queued` |
+
+</div>
+
+---
+
 ## 🛠️ Arsenal
 
 <div align="center">
@@ -45,8 +63,11 @@ const dev = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Frontend & Mobile**
 
@@ -71,16 +92,27 @@ const dev = {
 
 ---
 
-## 📊 Numbers that validate me
+## 👾 Numbers that validate me
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=deviverr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deviverr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<!-- PIXEL ART STATS CARD -->
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=deviverr&theme=journey&include_all_commits=true" alt="Pixel GitHub stats" width="600" />
 
-<img src="https://streak-stats.demolab.com?user=deviverr&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deviverr&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+<!-- RETRO TERMINAL STREAK -->
+<img src="https://streak-stats.demolab.com?user=deviverr&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E&border=00FF41" alt="GitHub streak" />
+
+<br/><br/>
+
+<!-- RETRO TERMINAL TOP LANGUAGES -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deviverr&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00FF41&langs_count=8" alt="Top languages" />
+
+<br/><br/>
+
+<!-- RETRO TERMINAL ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deviverr&bg_color=0D1117&color=00FF41&line=00FF41&point=C9D1D9&title_color=00FF41&area=true&area_color=00FF41" alt="Contribution graph" />
 
 </div>
 
@@ -117,10 +149,10 @@ const dev = {
 
 ### 💭 Random dev wisdom
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix" alt="Dev quote" />
 
 <br/>
 
-*⭐ From dev with 💜 — if you scrolled this far, we're basically friends. Star something.*
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=5000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=%E2%98%85+GAME+OVER+%E2%98%85+insert+star+to+continue" alt="Game over" />
 
 </div>
