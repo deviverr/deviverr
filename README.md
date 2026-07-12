@@ -18,7 +18,7 @@
 
 </div>
 
-## 🧑‍💻 About me
+## about Me
 
 ```typescript
 const dev = {
