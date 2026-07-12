@@ -40,7 +40,7 @@ const dev = {
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
-## 🎧 Now playing
+## now playing
 
 <div align="center">
 
@@ -60,7 +60,7 @@ const dev = {
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
-## 🛠️ Arsenal
+## arsenal
 
 <div align="center">
 
@@ -99,7 +99,7 @@ const dev = {
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
-## 👾 Numbers that validate me
+## numbers
 
 <div align="center">
 
@@ -129,7 +129,7 @@ const dev = {
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
-## 🐍 The snake that eats my sins (contributions)
+## the Snake
 
 <div align="center">
 
