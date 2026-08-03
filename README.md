@@ -1,6 +1,12 @@
 <img src="./assets/title-hello.svg" alt="hello!" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=16&color=FFFFFF&width=700&height=32&lines=i'm+dev;i+like+vibecoding;sharing+what+i+build+here" alt="i'm dev, i like vibecoding, sharing what i build here" />
+### i'm deviver
+
+### i like coding things
+
+### i'll share the projects im working on here
+
+### ₍^. .^₎Ⳋ
 
 <img src="./assets/title-arsenal.svg" alt="arsenal" width="100%" />
 
@@ -8,25 +14,16 @@
 
 <img src="./assets/title-stats.svg" alt="stats" width="100%" />
 
-<table width="100%">
-<tr>
-<td valign="top" align="center">
-  <a href="https://github.com/deviverr">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=deviverr&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub stats overview" width="380" />
-  </a>
-</td>
-<td valign="top" align="center">
-  <a href="https://github.com/deviverr?tab=repositories">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deviverr&layout=compact&theme=gruvbox&hide_border=true" alt="Top languages" width="380" />
-  </a>
-</td>
-<td valign="top" align="center">
-  <a href="https://github.com/deviverr?tab=followers"><img src="https://komarev.com/ghpvc/?username=deviverr&style=for-the-badge&color=CC785C&label=VISITOR+No." alt="Profile views" /></a><br/><br/>
-  <a href="https://github.com/deviverr?tab=followers"><img src="https://img.shields.io/github/followers/deviverr?style=for-the-badge&color=CC785C&logo=github&label=FOLLOWERS" alt="Followers" /></a><br/><br/>
-  <a href="https://github.com/deviverr?tab=stars"><img src="https://img.shields.io/github/stars/deviverr?style=for-the-badge&color=FFB000&logo=github&affiliations=OWNER&label=STARS" alt="Stars" /></a>
-</td>
-</tr>
-</table>
+<a href="https://github.com/deviverr">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=deviverr&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1E1611&count_private=true" alt="GitHub stats overview" width="380" />
+</a>
+<a href="https://github.com/deviverr?tab=repositories">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deviverr&layout=compact&theme=gruvbox&hide_border=true&bg_color=1E1611" alt="Top languages" width="380" />
+</a>
+
+<a href="https://github.com/deviverr?tab=followers"><img src="https://komarev.com/ghpvc/?username=deviverr&style=for-the-badge&color=CC785C&label=VISITOR+No." alt="Profile views" /></a>
+<a href="https://github.com/deviverr?tab=followers"><img src="https://img.shields.io/github/followers/deviverr?style=for-the-badge&color=CC785C&logo=github&label=FOLLOWERS" alt="Followers" /></a>
+<a href="https://github.com/deviverr?tab=stars"><img src="https://img.shields.io/github/stars/deviverr?style=for-the-badge&color=FFB000&logo=github&affiliations=OWNER&label=STARS" alt="Stars" /></a>
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
@@ -44,13 +41,8 @@
 
 <img src="./assets/title-socials.svg" alt="my socials" width="100%" />
 
-<div align="center">
-
 [![X](https://img.shields.io/badge/X-@deviverrr-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/deviverrr)
 [![Instagram](https://img.shields.io/badge/Instagram-@deviverrr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deviverrr)
 [![X](https://img.shields.io/badge/X-@nekudev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nekudev)
 [![X](https://img.shields.io/badge/X-@vevier-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vevier)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dedpul3000a@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-deviver.art-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://deviver.art)
-
-</div>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deviverwork@gmail.com)
