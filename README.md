@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- 🚧 pixel caution banner 🚧 -->
-<a href="https://github.com/deviverr/deviverr">
-  <img src="./assets/construction.svg" alt="Caution: meow moew meow" />
-</a>
-
 <!-- ⚡ PIXEL TYPING INTRO — edit the "lines=" part to change the text -->
 <a href="https://github.com/deviverr">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=18&duration=4000&pause=800&color=FFB000&center=true&vCenter=true&width=700&height=60&lines=hey%2C+I'm+dev+%3E_;full-stack%2C+full-time+curious;coffee+%E2%86%92+code+%E2%86%92+bugs+%E2%86%92+coffee;web+%C2%B7+backend+%C2%B7+mobile+%C2%B7+games;it+works+on+my+machine!" alt="Typing intro" />
@@ -18,45 +13,9 @@
 
 </div>
 
-## about Me
+## about me
 
-```typescript
-const dev = {
-  name: "dev",
-  code: ["TypeScript", "Python", "Go", "Lua", "C#", "C++", "Rust", "Java", "JavaScript"],
-  currently: {
-    building: "everything at once (as one does)",
-    learning: "whatever broke last night",
-    listening: "twenty one pilots",
-  },
-  funFact: "moew mwew meow mew maow",
-};
-```
-
-- 🌐 I build for the **web**, the **server**, your **phone**, and occasionally a **game** you'll rage-quit
-- 🎓 Perpetual student — my browser has 47 tabs of documentation open *right now*
-- 🐛 I don't always test my code, but when I do, I do it in production
-- 💬 Ask me about anything — worst case, we learn together
-
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
-
-## now playing
-
-<div align="center">
-
-<!-- 🎵 THE PLAYER — edit assets/player.svg (two text lines near "EDIT THESE") to change the track -->
-<a href="https://music.youtube.com">
-  <img src="./assets/player.svg" alt="Pixel music player" width="520" />
-</a>
-
-<!-- 📼 ON ROTATION — move the ▶︎ waveform to whatever row is playing -->
-| 💿 | on rotation | status |
-|---|---|---|
-| 🔴 | twenty one pilots — everything | `▶︎ •၊၊||၊|။|||| ` |
-| ⚪ | lo-fi beats to debug/cry to | `paused` |
-| ⚪ | *(put your next obsession here)* | `queued` |
-
-</div>
+Full-stack dev who ships fast and debugs faster. TypeScript, Python, Go, Rust — whatever the problem needs.
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
@@ -67,14 +26,11 @@ const dev = {
 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 **Frontend & Mobile**
 
@@ -103,24 +59,21 @@ const dev = {
 
 <div align="center">
 
-<!-- PIXEL ART STATS CARD (with CRT screen effect) -->
 <a href="https://github.com/deviverr">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=deviverr&theme=summer&screen_effect=true&include_all_commits=true" alt="Pixel GitHub stats" width="600" />
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=deviverr&theme=summer&screen_effect=true&include_all_commits=true" alt="GitHub stats" width="600" />
 </a>
 
 <br/><br/>
 
-<!-- WARM GRUVBOX CARDS -->
 <a href="https://github.com/deviverr?tab=repositories">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deviverr&theme=gruvbox" alt="Repos per language" width="380" />
 </a>
 <a href="https://github.com/deviverr">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deviverr&theme=gruvbox&utcOffset=3" alt="Commit hours (3am gang)" width="380" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deviverr&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub stats overview" width="380" />
 </a>
 
 <br/><br/>
 
-<!-- WARM ACTIVITY GRAPH -->
 <a href="https://github.com/deviverr">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deviverr&bg_color=1E1611&color=FFB000&line=CC785C&point=F0EEE6&title_color=FFB000&area=true&area_color=CC785C&hide_border=true" alt="Contribution graph" width="95%" />
 </a>
@@ -153,30 +106,5 @@ const dev = {
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dedpul3000a@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_SITE.com)
-
-</div>
-
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
-
-<div align="center">
-
-### mew mew mew
-
-<a href="https://github.com/deviverr">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev quote" />
-</a>
-
-<br/><br/>
-
-<!-- pixel buttons -->
-<a href="https://github.com/deviverr/deviverr">
-  <img src="./assets/buttons.svg" alt="pixel buttons" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/deviverr/deviverr">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=5000&pause=1000&color=CC785C&center=true&vCenter=true&width=600&height=40&lines=%E2%98%85+mEOW+Mrow+%E2%98%85+mew+meow+meow" alt="mEW Mew" />
-</a>
 
 </div>
