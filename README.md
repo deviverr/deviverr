@@ -25,31 +25,19 @@ Full-stack dev who ships fast and debugs faster. TypeScript, Python, Go, Rust â€
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,py,go,lua,cs,cpp,rust,java&theme=dark" alt="Languages" />
 
 **Frontend & Mobile**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind&theme=dark" alt="Frontend & Mobile" />
 
 **Backend & Infra**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,docker,linux&theme=dark" alt="Backend & Infra" />
 
 **Games**
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+<img src="https://skillicons.dev/icons?i=unity,godot&theme=dark" alt="Games" />
 
 </div>
 
@@ -60,16 +48,10 @@ Full-stack dev who ships fast and debugs faster. TypeScript, Python, Go, Rust â€
 <div align="center">
 
 <a href="https://github.com/deviverr">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=deviverr&theme=summer&screen_effect=true&include_all_commits=true" alt="GitHub stats" width="600" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/deviverr?tab=repositories">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deviverr&theme=gruvbox" alt="Repos per language" width="380" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=deviverr&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub stats overview" width="380" />
 </a>
 <a href="https://github.com/deviverr">
-  <img src="https://github-readme-stats.vercel.app/api?username=deviverr&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub stats overview" width="380" />
+  <img src="https://streak-stats.demolab.com?user=deviverr&theme=gruvbox&hide_border=true" alt="GitHub streak" width="380" />
 </a>
 
 <br/><br/>
