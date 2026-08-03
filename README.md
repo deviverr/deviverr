@@ -10,15 +10,15 @@
 
 <img src="./assets/title-arsenal.svg" alt="arsenal" width="100%" />
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,go,lua,cs,cpp,rust,java,react,nextjs,flutter,tailwind,nodejs,postgres,docker,linux,unity,godot&theme=dark" alt="arsenal icons" width="100%" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,go,lua,cs,cpp,rust,java,react,flutter,docker,linux,unity,godot&theme=dark" alt="arsenal icons" width="100%" />
 
 <img src="./assets/title-stats.svg" alt="stats" width="100%" />
 
 <a href="https://github.com/deviverr">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=deviverr&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1E1611&count_private=true" alt="GitHub stats overview" width="380" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=deviverr&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub stats overview" width="380" />
 </a>
 <a href="https://github.com/deviverr?tab=repositories">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deviverr&layout=compact&theme=gruvbox&hide_border=true&bg_color=1E1611" alt="Top languages" width="380" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deviverr&layout=compact&theme=gruvbox&hide_border=true" alt="Top languages" width="380" />
 </a>
 
 <a href="https://github.com/deviverr?tab=followers"><img src="https://komarev.com/ghpvc/?username=deviverr&style=for-the-badge&color=CC785C&label=VISITOR+No." alt="Profile views" /></a>
