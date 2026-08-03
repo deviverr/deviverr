@@ -57,7 +57,7 @@ Full-stack dev who ships fast and debugs faster. TypeScript, Python, Go, Rust â€
 <br/><br/>
 
 <a href="https://github.com/deviverr">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deviverr&bg_color=1E1611&color=FFB000&line=CC785C&point=F0EEE6&title_color=FFB000&area=true&area_color=CC785C&hide_border=true" alt="Contribution graph" width="95%" />
+  <img src="https://ghchart.rshah.org/CC785C/deviverr" alt="Contribution graph" width="95%" />
 </a>
 
 </div>
