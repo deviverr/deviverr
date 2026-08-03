@@ -1,18 +1,12 @@
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=FFB000&repeat=false&width=220&height=42&lines=hello!" alt="hello!" /> `· · · · · · · · · · · · · ·`
+<img src="./assets/title-hello.svg" alt="hello!" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=16&color=FFFFFF&width=700&height=32&lines=i'm+dev;i+like+vibecoding;sharing+what+i+build+here" alt="i'm dev, i like vibecoding, sharing what i build here" />
 
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=FFB000&repeat=false&width=280&height=42&lines=arsenal" alt="arsenal" /> `· · · · · · · · · · · · · ·`
+<img src="./assets/title-arsenal.svg" alt="arsenal" width="100%" />
 
 <img src="https://skillicons.dev/icons?i=ts,js,py,go,lua,cs,cpp,rust,java,react,nextjs,flutter,tailwind,nodejs,postgres,docker,linux,unity,godot&theme=dark" alt="arsenal icons" width="100%" />
 
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=FFB000&repeat=false&width=240&height=42&lines=stats" alt="stats" /> `· · · · · · · · · · · · · ·`
+<img src="./assets/title-stats.svg" alt="stats" width="100%" />
 
 <table width="100%">
 <tr>
@@ -48,9 +42,7 @@
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=FFB000&repeat=false&width=340&height=42&lines=my+socials" alt="my socials" /> `· · · · · · · · · · · · · ·`
+<img src="./assets/title-socials.svg" alt="my socials" width="100%" />
 
 <div align="center">
 
