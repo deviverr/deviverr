@@ -1,20 +1,6 @@
-<div align="center">
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
-<a href="https://github.com/deviverr?tab=followers">
-  <img src="https://komarev.com/ghpvc/?username=deviverr&style=for-the-badge&color=CC785C&label=VISITOR+No." alt="Profile views" />
-</a>
-
-<img src="./assets/divider.svg" alt="" width="100%" />
-
-</div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=FFB000&repeat=false&width=320&height=42&lines=about+me" alt="about me" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&duration=1&pause=100000&color=FFB000&repeat=false&width=420&height=34&lines=hello!!" alt="hello!!" /><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&duration=1&pause=100000&color=FFB000&repeat=false&width=420&height=34&lines=i'm+deviver" alt="i'm deviver" /><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&duration=1&pause=100000&color=FFB000&repeat=false&width=420&height=34&lines=i+like+vibecoding" alt="i like vibecoding" /><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&duration=1&pause=100000&color=FFB000&repeat=false&width=420&height=34&lines=i'll+share+the+projects" alt="i'll share the projects" /><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&duration=1&pause=100000&color=FFB000&repeat=false&width=420&height=34&lines=i'm+working+on+here" alt="i'm working on here" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=FFB000&repeat=false&width=320&height=42&lines=about+me" alt="about me" /> <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&duration=2500&pause=900&color=FFB000&vCenter=true&width=520&height=34&lines=hello!!;i'm+deviver;i+like+vibecoding;i'll+share+the+projects+i'm+working+on+here" alt="hello, i'm deviver, i like vibecoding" />
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
@@ -27,6 +13,18 @@
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=FFB000&repeat=false&width=240&height=42&lines=stats" alt="stats" />
 
 <div align="center">
+
+<a href="https://github.com/deviverr?tab=followers">
+  <img src="https://komarev.com/ghpvc/?username=deviverr&style=for-the-badge&color=CC785C&label=VISITOR+No." alt="Profile views" />
+</a>
+<a href="https://github.com/deviverr?tab=followers">
+  <img src="https://img.shields.io/github/followers/deviverr?style=for-the-badge&color=CC785C&logo=github&label=FOLLOWERS" alt="Followers" />
+</a>
+<a href="https://github.com/deviverr?tab=stars">
+  <img src="https://img.shields.io/github/stars/deviverr?style=for-the-badge&color=FFB000&logo=github&affiliations=OWNER&label=STARS" alt="Stars" />
+</a>
+
+<br/><br/>
 
 <a href="https://github.com/deviverr">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=deviverr&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub stats overview" width="380" />
