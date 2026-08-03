@@ -1,12 +1,12 @@
 <img src="./assets/title-hello.svg" alt="hello!" width="100%" />
 
-## i'm deviver
+### i'm deviver
 
-## i like coding things
+### i like coding things
 
-## i'll share the projects im working on here
+### i'll share the projects im working on here
 
-## ₍^. .^₎Ⳋ
+### ₍^. .^₎Ⳋ
 
 <img src="./assets/title-arsenal.svg" alt="arsenal" width="100%" />
 
