@@ -1,18 +1,23 @@
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
+<table width="100%"><tr>
+<td width="1"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=FFB000&repeat=false&width=220&height=42&lines=hello!" alt="hello!" /></td>
+<td><img src="./assets/divider.svg" alt="" width="100%" /></td>
+</tr></table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=FFB000&repeat=false&width=220&height=42&lines=hello!" alt="hello!" /> <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&duration=1&pause=100000&color=FFFFFF&repeat=false&width=560&height=34&lines=i'm+dev+%E2%80%94+i+like+vibecoding%2C+sharing+what+i+build+here" alt="i'm dev, i like vibecoding, sharing what i build here" />
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=16&duration=1&pause=100000&color=FFFFFF&repeat=false&width=820&height=32&lines=i'm+dev+%E2%80%94+i+like+vibecoding%2C+sharing+what+i+build+here" alt="i'm dev, i like vibecoding, sharing what i build here" />
 
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
+<table width="100%"><tr>
+<td width="1"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=FFB000&repeat=false&width=280&height=42&lines=arsenal" alt="arsenal" /></td>
+<td><img src="./assets/divider.svg" alt="" width="100%" /></td>
+</tr></table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=FFB000&repeat=false&width=280&height=42&lines=arsenal" alt="arsenal" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,go,lua,cs,cpp,rust,java,react,nextjs,flutter,tailwind,nodejs,postgres,docker,linux,unity,godot&theme=dark" alt="arsenal icons" width="100%" />
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,go,lua,cs,cpp,rust,java,react,nextjs,flutter,tailwind,nodejs,postgres,docker,linux,unity,godot&theme=dark" alt="arsenal icons" />
+<table width="100%"><tr>
+<td width="1"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=FFB000&repeat=false&width=240&height=42&lines=stats" alt="stats" /></td>
+<td><img src="./assets/divider.svg" alt="" width="100%" /></td>
+</tr></table>
 
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=FFB000&repeat=false&width=240&height=42&lines=stats" alt="stats" />
-
-<table>
+<table width="100%">
 <tr>
 <td valign="top" align="center">
   <a href="https://github.com/deviverr">
@@ -46,9 +51,10 @@
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=FFB000&repeat=false&width=340&height=42&lines=my+socials" alt="my socials" />
+<table width="100%"><tr>
+<td width="1"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=FFB000&repeat=false&width=340&height=42&lines=my+socials" alt="my socials" /></td>
+<td><img src="./assets/divider.svg" alt="" width="100%" /></td>
+</tr></table>
 
 <div align="center">
 
